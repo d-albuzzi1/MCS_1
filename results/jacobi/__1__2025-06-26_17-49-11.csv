@@ -1,0 +1,17 @@
+Metodo,Matrice,Tolleranza,Iterazioni,Errore Relativo,Tempo (s),Convergenza
+Jacobi,spa1,0.0001,115,1.77e-03,0.0523,True
+Jacobi,spa1,1e-06,181,1.80e-05,0.0634,True
+Jacobi,spa1,1e-08,247,1.82e-07,0.0738,True
+Jacobi,spa1,1e-10,313,1.85e-09,0.0930,True
+Jacobi,spa2,0.0001,36,1.77e-03,0.1559,True
+Jacobi,spa2,1e-06,57,1.67e-05,0.1871,True
+Jacobi,spa2,1e-08,78,1.57e-07,0.2379,True
+Jacobi,spa2,1e-10,99,1.48e-09,0.4198,True
+Jacobi,vem1,0.0001,1314,3.54e-03,0.1110,True
+Jacobi,vem1,1e-06,2433,3.54e-05,0.1366,True
+Jacobi,vem1,1e-08,3552,3.54e-07,0.1886,True
+Jacobi,vem1,1e-10,4671,3.54e-09,0.2494,True
+Jacobi,vem2,0.0001,1927,4.97e-03,0.1506,True
+Jacobi,vem2,1e-06,3676,4.97e-05,0.2802,True
+Jacobi,vem2,1e-08,5425,4.97e-07,0.3820,True
+Jacobi,vem2,1e-10,7174,4.96e-09,0.5519,True

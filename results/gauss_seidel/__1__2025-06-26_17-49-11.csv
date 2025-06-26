@@ -1,0 +1,17 @@
+Metodo,Matrice,Tolleranza,Iterazioni,Errore Relativo,Tempo (s),Convergenza
+Gauss-Seidel,spa1,0.0001,9,1.82e-02,1.4506,True
+Gauss-Seidel,spa1,1e-06,17,1.30e-04,2.6077,True
+Gauss-Seidel,spa1,1e-08,24,1.71e-06,3.2540,True
+Gauss-Seidel,spa1,1e-10,31,2.25e-08,5.4739,True
+Gauss-Seidel,spa2,0.0001,5,2.60e-03,6.1718,True
+Gauss-Seidel,spa2,1e-06,8,5.14e-05,9.5978,True
+Gauss-Seidel,spa2,1e-08,12,2.79e-07,13.8328,True
+Gauss-Seidel,spa2,1e-10,15,5.57e-09,18.1536,True
+Gauss-Seidel,vem1,0.0001,659,3.51e-03,9.3376,True
+Gauss-Seidel,vem1,1e-06,1218,3.53e-05,17.7852,True
+Gauss-Seidel,vem1,1e-08,1778,3.52e-07,26.0752,True
+Gauss-Seidel,vem1,1e-10,2338,3.51e-09,35.1240,True
+Gauss-Seidel,vem2,0.0001,965,4.95e-03,21.4546,True
+Gauss-Seidel,vem2,1e-06,1840,4.94e-05,41.9037,True
+Gauss-Seidel,vem2,1e-08,2714,4.96e-07,58.5334,True
+Gauss-Seidel,vem2,1e-10,3589,4.95e-09,66.9153,True
