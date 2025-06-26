@@ -1,0 +1,17 @@
+Metodo,Matrice,Tolleranza,Iterazioni,Errore Relativo,Tempo (s),Convergenza
+Gradiente Coniugato,spa1,0.0001,49,2.08e-02,0.0090,True
+Gradiente Coniugato,spa1,1e-06,134,2.55e-05,0.0220,True
+Gradiente Coniugato,spa1,1e-08,177,1.32e-07,0.0293,True
+Gradiente Coniugato,spa1,1e-10,200,1.20e-09,0.0599,True
+Gradiente Coniugato,spa2,0.0001,42,9.82e-03,0.0938,True
+Gradiente Coniugato,spa2,1e-06,122,1.20e-04,0.2914,True
+Gradiente Coniugato,spa2,1e-08,196,5.59e-07,0.4670,True
+Gradiente Coniugato,spa2,1e-10,240,5.32e-09,0.5465,True
+Gradiente Coniugato,vem1,0.0001,38,4.08e-05,0.0015,True
+Gradiente Coniugato,vem1,1e-06,45,3.73e-07,0.0017,True
+Gradiente Coniugato,vem1,1e-08,53,2.83e-09,0.0021,True
+Gradiente Coniugato,vem1,1e-10,59,2.19e-11,0.0024,True
+Gradiente Coniugato,vem2,0.0001,47,5.73e-05,0.0026,True
+Gradiente Coniugato,vem2,1e-06,56,4.74e-07,0.0028,True
+Gradiente Coniugato,vem2,1e-08,66,4.30e-09,0.0035,True
+Gradiente Coniugato,vem2,1e-10,74,2.25e-11,0.0042,True

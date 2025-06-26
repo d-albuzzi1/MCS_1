@@ -1,0 +1,17 @@
+Metodo,Matrice,Tolleranza,Iterazioni,Errore Relativo,Tempo (s),Convergenza
+Gradiente Semplice,spa1,0.0001,143,3.46e-02,0.0461,True
+Gradiente Semplice,spa1,1e-06,3577,9.68e-04,0.9005,True
+Gradiente Semplice,spa1,1e-08,8233,9.82e-06,1.5615,True
+Gradiente Semplice,spa1,1e-10,12919,9.82e-08,2.4486,True
+Gradiente Semplice,spa2,0.0001,161,1.81e-02,0.3598,True
+Gradiente Semplice,spa2,1e-06,1949,6.69e-04,8.5808,True
+Gradiente Semplice,spa2,1e-08,5087,6.87e-06,14.1609,True
+Gradiente Semplice,spa2,1e-10,8285,6.94e-08,30.6056,True
+Gradiente Semplice,vem1,0.0001,890,2.70e-03,0.2307,True
+Gradiente Semplice,vem1,1e-06,1612,2.71e-05,0.5555,True
+Gradiente Semplice,vem1,1e-08,2336,2.70e-07,0.8296,True
+Gradiente Semplice,vem1,1e-10,3058,2.71e-09,0.4733,True
+Gradiente Semplice,vem2,0.0001,1308,3.81e-03,0.1736,True
+Gradiente Semplice,vem2,1e-06,2438,3.79e-05,0.2903,True
+Gradiente Semplice,vem2,1e-08,3566,3.81e-07,0.4362,True
+Gradiente Semplice,vem2,1e-10,4696,3.80e-09,0.5048,True
